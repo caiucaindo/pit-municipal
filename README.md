@@ -1,12 +1,9 @@
-# Plataforma de Inteligencia Territorial - Testes de Integracao
+# PIT Municipal
 
-Projeto da atividade pratica de testes de integracao com APIs publicas usando Pytest.
+## Plataforma de Inteligencia Territorial Municipal
 
-## Cenario escolhido
-
-O projeto implementa o **Cenario 1 - Plataforma de Inteligencia Territorial para Gestao Municipal**.
-
-A proposta e validar integracoes com servicos publicos que fornecem dados de municipios brasileiros, UFs e codigos IBGE.
+Projeto voltado a disciplica de Testes de Software, integrado com APIs publicas usando Pytest.
+A proposta é validar integracões com serviços publicos que fornecem dados de municipios brasileiros, UFs e códigos IBGE.
 
 ## APIs utilizadas
 
@@ -92,5 +89,5 @@ O relatorio HTML gerado em `reports/relatorio.html` contem:
 - total de testes executados;
 - testes aprovados;
 - eventuais falhas;
-- tempo total de execucao;
+- tempo total de execução;
 - detalhes por caso de teste.
